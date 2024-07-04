@@ -145,7 +145,6 @@ elif language == "English":
 elif language == "Қазақ":
     kz_lang_almaty()
 
-s
 
 
 
