@@ -13,7 +13,7 @@ import streamlit.components.v1 as components
 
 
 
-#path streamlit run D:\Projects\Happiness_level_of_population_in_Almaty\pythonProject\Алматы.py
+#path streamlit run D:\Projects\AlmatyDC_happiness_level_project\AlmatyDC_level_of_happiness\Алматы.py
 
 
 
